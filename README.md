@@ -64,5 +64,107 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-orshot-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://orshot.com/
+Orshot provides an API for automated image, PDF, and video generation, enabling developers and AI agents to create media assets programmatically. The platform offers template-based rendering, approval flows, and integrations with tools like n8n, Make, Zapier, and popular AI agents. It supports a wide range of use cases from marketing content creation to video production, with a focus on scalability and ease of integration.
+
+**Areas:** Company · API · Media · Automation · AI
+
+## orshot-com on APIs.io
+
+Everything profiled for orshot-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/orshot-com/](https://apis.io/providers/orshot-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Orshot API](https://apis.io/apis/orshot-com/orshot-api/) — API for automated image, PDF, and video generation
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Orshot Com Webhooks](https://apis.io/asyncapis/orshot-com/orshot-com-webhooks/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Orshot Com Authentication](https://apis.io/security/orshot-com/orshot-com-authentication/)
+- [Orshot Com Domain Security](https://apis.io/security/orshot-com/orshot-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Orshot Com Plans Pricing](https://apis.io/plans/orshot-com/orshot-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://orshot.com/)
+- [Documentation](https://orshot.com/docs/)
+- [Getting started](https://orshot.com/docs/partner-program/getting-started)
+- [API reference](https://orshot.com/docs/api-reference)
+- [Pricing](https://orshot.com/pricing)
+- [Support](https://orshot.com/help)
+- [Changelog](https://orshot.com/docs/changelog)
+- [Blog](https://orshot.com/blog)
+- [Terms of service](https://orshot.com/terms)
+- [Privacy policy](https://orshot.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 48.5** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 39.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 23.7 |
+| Developer ergonomics | 57.1 |
+| Access clarity | 73.2 |
+
+**Agent readiness 41.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/orshot-com/](https://apis.io/providers/orshot-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for orshot-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/orshot-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
